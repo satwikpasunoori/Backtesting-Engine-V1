@@ -1,0 +1,7 @@
+streamlit
+polygon-api-client
+google-genai
+pandas
+numpy
+matplotlib
+pandas_ta
